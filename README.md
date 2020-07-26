@@ -16,5 +16,5 @@ bundle install
 
 Run specs:
 ```
-bundle exec rspec spec f -d
+bundle exec rspec spec -f d
 ```
